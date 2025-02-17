@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on a [Secure CD Design](https://google.com), secure by design framework for Software Continuous Delivery in AWS Cloud 
-- 🌱 I’m recently build a Ransomware framework that helps organizations to pro-actively detect security vunerabilties in AWS Infrastrucute and recommend vunerabilities fix.   
+- 🌱 I recently build a Ransomware framework that helps organizations to pro-actively detect security vunerabilties in AWS Infrastructure and recommend vunerabilities fix.   
 - 👯 I’m looking to collaborate on Github projects! Send me ideas to cloudsecurityguru@gmail.com
 
 <!--
